@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>disable</Nullable>
+    <RootNamespace>tcg</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Cards.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ICommand\SelectCommand.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Text.Json" Version="9.0.7" />
+  </ItemGroup>
+
+</Project>

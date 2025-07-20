@@ -1,0 +1,10 @@
+C:\Users\Lisa\Desktop\roguelike\grid\grid\bin\Debug\netstandard2.1\tcg.deps.json
+C:\Users\Lisa\Desktop\roguelike\grid\grid\bin\Debug\netstandard2.1\tcg.dll
+C:\Users\Lisa\Desktop\roguelike\grid\grid\bin\Debug\netstandard2.1\tcg.pdb
+C:\Users\Lisa\Desktop\roguelike\grid\grid\obj\Debug\netstandard2.1\tcg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisa\Desktop\roguelike\grid\grid\obj\Debug\netstandard2.1\tcg.AssemblyInfoInputs.cache
+C:\Users\Lisa\Desktop\roguelike\grid\grid\obj\Debug\netstandard2.1\tcg.AssemblyInfo.cs
+C:\Users\Lisa\Desktop\roguelike\grid\grid\obj\Debug\netstandard2.1\tcg.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\Desktop\roguelike\grid\grid\obj\Debug\netstandard2.1\tcg.dll
+C:\Users\Lisa\Desktop\roguelike\grid\grid\obj\Debug\netstandard2.1\tcg.pdb
+C:\Users\Lisa\Desktop\roguelike\grid\grid\obj\Debug\netstandard2.1\tcg.csproj.AssemblyReference.cache
